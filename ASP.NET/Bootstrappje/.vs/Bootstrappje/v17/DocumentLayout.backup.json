@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teunc\\OneDrive - Summacollege O365\\summacollege\\SD24A\\ASP.NET\\Bootstrappje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26EE29FA-29D7-42BF-8368-9AB0DC1AD0BD}|Bootstrappje.csproj|c:\\users\\teunc\\onedrive - summacollege o365\\summacollege\\sd24a\\asp.net\\bootstrappje\\views\\responsive\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26EE29FA-29D7-42BF-8368-9AB0DC1AD0BD}|Bootstrappje.csproj|solutionrelative:views\\responsive\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EE29FA-29D7-42BF-8368-9AB0DC1AD0BD}|Bootstrappje.csproj|c:\\users\\teunc\\onedrive - summacollege o365\\summacollege\\sd24a\\asp.net\\bootstrappje\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26EE29FA-29D7-42BF-8368-9AB0DC1AD0BD}|Bootstrappje.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EE29FA-29D7-42BF-8368-9AB0DC1AD0BD}|Bootstrappje.csproj|c:\\users\\teunc\\onedrive - summacollege o365\\summacollege\\sd24a\\asp.net\\bootstrappje\\controllers\\responsivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EE29FA-29D7-42BF-8368-9AB0DC1AD0BD}|Bootstrappje.csproj|solutionrelative:controllers\\responsivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\teunc\\OneDrive - Summacollege O365\\summacollege\\SD24A\\ASP.NET\\Bootstrappje\\Views\\Responsive\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Responsive\\Index.cshtml",
+              "ToolTip": "C:\\Users\\teunc\\OneDrive - Summacollege O365\\summacollege\\SD24A\\ASP.NET\\Bootstrappje\\Views\\Responsive\\Index.cshtml",
+              "RelativeToolTip": "Views\\Responsive\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T07:59:40.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\teunc\\OneDrive - Summacollege O365\\summacollege\\SD24A\\ASP.NET\\Bootstrappje\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\teunc\\OneDrive - Summacollege O365\\summacollege\\SD24A\\ASP.NET\\Bootstrappje\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T07:02:48.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponsiveController.cs",
+              "DocumentMoniker": "C:\\Users\\teunc\\OneDrive - Summacollege O365\\summacollege\\SD24A\\ASP.NET\\Bootstrappje\\Controllers\\ResponsiveController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResponsiveController.cs",
+              "ToolTip": "C:\\Users\\teunc\\OneDrive - Summacollege O365\\summacollege\\SD24A\\ASP.NET\\Bootstrappje\\Controllers\\ResponsiveController.cs",
+              "RelativeToolTip": "Controllers\\ResponsiveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:59:41.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
